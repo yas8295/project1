@@ -9,6 +9,9 @@
     --text: #a9a9a9
 }
 
+html {
+    overflow-x: hidden;
+}
 body {
     background-color: black;
     color: #a9a9a9;
@@ -206,7 +209,7 @@ body {
 }
 
 .service h1 {
-    font-size: 120px;
+    font-size: 90px;
     letter-spacing: -8px;
     color: var(--icon);
     background-color: #393e099c;
